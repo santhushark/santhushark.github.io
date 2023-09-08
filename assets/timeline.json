@@ -1,0 +1,82 @@
+{
+  "timeline": [
+    {
+      "date": "2012 - 2016",
+      "header": "BE Degree in E&EE",
+      "body": "Completed my Bachelor of Engineering degree in Electricals and Electronics Engineering at Kammavari Sangham School Of Engineering and Management.",
+      "place": "Kammavari Sangham School Of Engineering and Management (VTU), Bangalore",
+      "timestamp": 1312209991
+    },
+    {
+      "date": "25 Oct, 2014",
+      "header": "Aarohana Game Stall: Wire Loop Game",
+      "body": "Aarohana: An Yearly College Festival. Registered a game stall, Built a Wire Loop Game and made good money. Also got awarded as the best game stall since it aligned very much with my major.",
+      "place": "Kammavari Sangham School Of Engineering and Management (VTU), Bangalore",
+      "timestamp": 1380379630
+    },
+    {
+      "date": "1 Mar, 2015",
+      "header": "RoboTryst-2015 - Qualified to Finals",
+      "body": "RoboTryst - An National Level Robotics Championship organised by Robosapiens Technologies Pvt. Ltd. Built a line follower robot using Infrared sensors, Microcontrollers and Assembly Level Language Programming.",
+      "place": "Indian Institute of Technology, Delhi",
+      "timestamp": 1401893252
+    },
+    {
+      "date": "21 Mar, 2015",
+      "header": "Kalasanthe",
+      "body": "Kalasante: An Yearly cultural Festival. Organised stage events, Successfully led and managed a team responsible for decorating the College for festival.",
+      "place": "Kammavari Sangham School Of Engineering and Management (VTU), Bangalore",
+      "timestamp": 1391352477
+    },
+    {
+      "date": "15 Apr, 2016",
+      "header": "Paper Publishing",
+      "body": "Published a paper <i> A Novel Approach for Short Term Load Forecasting Using Load Profile Index Vectors by Development of BPNN and GRNN Algorithms</i> in International Journal of Advanced Research In Electrical, Electronics and Instrumentation Engineering.",
+      "place": "Kammavari Sangham School Of Engineering and Management (VTU), Bangalore",
+      "timestamp": 1406386130
+    },
+
+    {
+      "date": "1 May, 2017",
+      "header": "Completed (Grade A): Postgraduate Diploma in Embedded System Design",
+      "body": "Completed a Postgraduate Diploma program in Embedded System Design focused on C/C++ Programming, Data Structures, ARM Microprocessors, General Purpose Operating Systems and Matlab.",
+      "place": "Cranes Varsity, Bangalore",
+      "timestamp": 1427035754
+    },
+    {
+      "date": "12 Jun, 2017",
+      "header": "Software Engineer @ Winix Technologies",
+      "body": "My First Job: Developed WIP <i>Wireless Intelligent Platform</i> a mesh network technology built using OpenWRT in C++. Worked on the following wifi modules: Mediatek MT7628, MT7628A and ESP8266.",
+      "place": "Winix Technologies, Bangalore",
+      "timestamp": 1434811783
+    },
+    {
+      "date": "27 Aug 2018",
+      "header": "Software Engineer @ Highpeak Software",
+      "body": "Migrated from Embedded Systems to Web Applications. Built backend Springboot applications, One of the major projects that I worked on includes ADP payroll application. Also worked on a POC project where I developed Live video streaming using FFmpeg, Raspberry Pi and Python programming.",
+      "place": "Highpeak Software, Bangalore",
+      "timestamp": 1437523200
+    },
+    {
+      "date": "2 Feb, 2021",
+      "header": "Software Engineer @ Werize (Financial Tech)",
+      "body": "Full-stack development, worked on both Reactjs Frontend and Sprinboot Backend Applications. Designed and implemented EMI collection in backend using AWS SQS. Integrated New Relic APM on all backend services and gave KT to the entire team. Migrated from Software Development team to Data Science Team and worked on BOT Model that assists Operations team in evaluating Loan Applications.",
+      "place": "Werize, Bangalore",
+      "timestamp": 1440168698
+    },
+    {
+      "date": "9 Jan, 2022",
+      "header": "Graduate Studies Kick Start",
+      "body": "Landed in United States to start my Graduate studies in Data Science.",
+      "place": "Illinois Institute of Technology, Chicago",
+      "timestamp": 1445179898
+    },
+    {
+      "date": "30 May, 2023",
+      "header": "Machine Learning Engineer Intern @ Object Computing",
+      "body": "Designed ML Workflow of META Segment Anything Model (SAM). Deployed SAM on GCP using VertexAI for online Predictions. Built Batch Prediction pipelines using Kubeflow. And Finally open-sourced the work.",
+      "place": "Object Computing, St. Louis",
+      "timestamp": 1445784698
+    }
+  ]
+}
