@@ -1,7 +1,7 @@
 # Site settings
-title: Akshama #website title
+title: Karyotsav #website title
 description: > # this means to ignore newlines until "baseurl:"
-  Akshama
+  Karyotsav
 url: https://santhushark.github.io # the base hostname & protocol for your site
 baseurl: # the sub-path of your site, e.g. /blog/
 
