@@ -23,7 +23,7 @@ links:
     external:     true
   - name:         Resume
     url:          /resume
-    external:     true
+    external:     false
 
 # Search settings
 
