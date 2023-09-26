@@ -77,6 +77,13 @@
       "body": "Designed ML Workflow of META Segment Anything Model (SAM). Deployed SAM on GCP using VertexAI for online Predictions. Built Batch Prediction pipelines using Kubeflow. And Finally open-sourced the work.",
       "place": "Object Computing, St. Louis",
       "timestamp": 1445784698
+    },
+    {
+      "date": "24 Sep, 2023",
+      "header": "AWS Cloud Certification",
+      "body": "Obtained <i>AWS Certified Cloud Practitioner</i> Certification",
+      "place": "AWS, Chicago",
+      "timestamp": 1445784699
     }
   ]
 }
