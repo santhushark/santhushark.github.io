@@ -84,6 +84,13 @@
       "body": "Obtained <i>AWS Certified Cloud Practitioner</i> Certification",
       "place": "AWS, Chicago",
       "timestamp": 1445784699
+    },
+    {
+      "date": "6 Oct, 2023",
+      "header": "Completed Generative AI with LLM course",
+      "body": "Obtained <i>Generative AI with Large Language Model</i> Certification from DeepLearning.ai on Coursera",
+      "place": "Coursera, Chicago",
+      "timestamp": 1445784799
     }
   ]
 }
