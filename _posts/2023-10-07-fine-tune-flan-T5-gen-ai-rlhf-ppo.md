@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fine-Tune FLAN-T5 Model with Reinforcement Learning(PPO)"
+title: "Fine-Tune FLAN-T5 Model with RL(PPO)"
 description: "Fine-tune a FLAN-T5 model to generate less toxic content with Meta AI's hate speech reward model. Proximal Policy Optimization (PPO) is used to fine-tune and reduce the model's toxicity."
 author: santhushark
 category: Generative AI / LLM / NLP

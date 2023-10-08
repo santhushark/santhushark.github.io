@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fine-Tune a FLAN-T5 Generative AI Model"
+title: "Fine-Tune a FLAN-T5 Gen-AI Model"
 description: "Fine-Tune an existing Large Language Model FLAN-T5 from Hugging Face for Enhanced Dialogue Summarization"
 author: santhushark
 category: Generative AI / LLM / NLP

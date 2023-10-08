@@ -1,7 +1,7 @@
 ---
 layout: post
-title: META SAM model workflow in Google Cloud Platform
-description: "Deploy SAM on GCP using VertexAI for online Predictions. Build Batch Prediction pipelines using Kubeflow."
+title: META SAM model workflow in GCP
+description: "Deploy SAM on Google Cloud Platform using VertexAI for online Predictions. Build Batch Prediction pipelines using Kubeflow."
 author: santhushark
 category: Machine Learning Operations
 tags: mlops computer-vision SAM
