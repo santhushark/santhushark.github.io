@@ -3,7 +3,7 @@ layout: post
 title: Diabetes Prediction System
 description: "Modelled Diabetes Prediction System using couple of Traditional ML Algorithm"
 author: santhushark
-category: Machine Learning/Research
+category: Machine Learning / Research
 tags: Modeling Data-Engineering EDA
 finished: true
 ---

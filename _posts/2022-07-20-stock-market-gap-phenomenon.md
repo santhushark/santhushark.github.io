@@ -3,7 +3,7 @@ layout: post
 title: Stock Market Gap Phenomenon Analysis
 description: "Stock Market Gap Phenomenon Analysis using Statistical Techniques"
 author: santhushark
-category: Machine Learning/Research
+category: Machine Learning / Research
 tags: analysis EDA data-engineering R-language
 finished: true
 ---

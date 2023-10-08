@@ -3,7 +3,7 @@ layout: post
 title: "Chat Bot, Based on End to End Memory Networks"
 description: "Question Answer model trained on Facebook Babi Dataset, Based on the paper End to End Memory Networks"
 author: santhushark
-category: Machine Learning/Research
+category: Generative AI / LLM / NLP
 tags: lstm DL neural-network keras vectorization nlp
 finished: false
 ---

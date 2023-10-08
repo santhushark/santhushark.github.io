@@ -3,7 +3,7 @@ layout: post
 title: Missing Value Treatment using Clustering Technique
 description: "Analysis of Row Based vs Column Based Ignore Methods"
 author: santhushark
-category: Machine Learning/Research
+category: Machine Learning / Research
 tags: python pandas clustering kmeans eda
 finished: false
 ---
