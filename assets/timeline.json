@@ -28,6 +28,15 @@
       "place": "Kammavari Sangham School Of Engineering and Management (VTU), Bangalore",
       "timestamp": 1391352477
     },
+    
+    {
+      "date": "12 Jun, 2017",
+      "header": "Software Engineer @ Winix Technologies",
+      "body": "My First Job: Developed WIP <i>Wireless Intelligent Platform</i> a mesh network technology built using OpenWRT in C++. Worked on the following wifi modules: Mediatek MT7628, MT7628A and ESP8266.",
+      "place": "Winix Technologies, Bangalore",
+      "timestamp": 1391352480
+    },
+
     {
       "date": "15 Apr, 2016",
       "header": "Paper Publishing",
@@ -43,13 +52,7 @@
       "place": "Cranes Varsity, Bangalore",
       "timestamp": 1427035754
     },
-    {
-      "date": "12 Jun, 2017",
-      "header": "Software Engineer @ Winix Technologies",
-      "body": "My First Job: Developed WIP <i>Wireless Intelligent Platform</i> a mesh network technology built using OpenWRT in C++. Worked on the following wifi modules: Mediatek MT7628, MT7628A and ESP8266.",
-      "place": "Winix Technologies, Bangalore",
-      "timestamp": 1434811783
-    },
+
     {
       "date": "27 Aug 2018",
       "header": "Software Engineer @ Highpeak Software",

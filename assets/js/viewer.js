@@ -5125,7 +5125,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'assets/santosh_chaluvaraju_resume_2023.pdf',
+    value: 'assets/santosh_chaluvaraju_resume.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
